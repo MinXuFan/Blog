@@ -11,3 +11,4 @@ func main() {
 //test without sign but github require it
 //should include administrator in rules
 //why the global config priority is greater than local
+//any other github account email
